@@ -1,0 +1,54 @@
+    1  ls
+    2  man git
+    3  git --help
+    4  gmesd
+    5  sudo apt update
+    6  sudo apt install git
+    7  git --version
+    8  which git
+    9  ubuntu --version
+   10  --version
+   11  lsb_release -a
+   12  ls
+   13  pwd
+   14  which git
+   15  ls
+   16  cd Desktop/
+   17  sudo apt update
+   18  sudo apt install git
+   19  git init
+   20  cd Desktop/
+   21  mkdir PG_DAC
+   22  cd PG_DAC/
+   23  git init
+   24  ls -a
+   25  ls
+   26  mkdir repo
+   27  cd Desktop/
+   28  mkdir repo
+   29  cd repo
+   30  git init
+   31  git config --global user.name "humayun"
+   32  git config --global user.mail "yusufhumayun60@gmail.com"
+   33  ls -a
+   34  cat > demofile
+   35  ls
+   36  cat demofile
+   37  ls -a
+   38  rm demofile
+   39  ls
+   40  ls -s
+   41  ls -a
+   42  cat < demofile
+   43  cat > demofile
+   44  ls
+   45  cat demofile
+   46  touch file1 file2 file3 file4
+   47  ls
+   48  ls -qa
+   49  ls -a
+   50  ls --ls
+   51  man --ls
+   52  man ls
+   53  history
+   54  history | cat > a.txt
