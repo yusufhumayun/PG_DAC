@@ -47,8 +47,6 @@
    47  ls
    48  ls -qa
    49  ls -a
-   50  ls --ls
-   51  man --ls
-   52  man ls
+   50  l
    53  history
    54  history | cat > a.txt
